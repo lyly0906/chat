@@ -1,0 +1,25 @@
+A: 用户系统：用户注册、登录、
+
+添加好友、删除好友、好友列表、
+支持上传头像、可以修改个人信息、名称、性别、地区、签名。
+
+B：单聊系统：发送文字、图片、-语音、表情。ok
+
+C：群聊系统：建立房间、加入房间、删除房间、房间列表、群聊、屏蔽群消息功能、邀请、踢人
+
+
+var CoolChat = {
+	showMessages : function() {
+
+	},
+	showFriends : function() {
+
+	},
+	showGroups : function() {
+
+	},
+	showSettings : function() {
+
+	}
+};
+
